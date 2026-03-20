@@ -7,11 +7,11 @@ This project consists of using Active Directory to reset passwords and unlocking
 
 <h2> Utilities Used</h2>
 
-- <b> Active Directory</b> 
+- <b>EC2 instance Active Directory Domain Services</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> AWS </b>
 
 <h2>Program walk-through:</h2>
 
