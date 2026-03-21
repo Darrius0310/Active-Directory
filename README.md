@@ -25,30 +25,28 @@ Launch AWS Windows2025 EC2 Instance: <br/>
 <img src="https://i.imgur.com/Hrvhzd5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+RDP from personal computer to Windows2025 EC2 Instance:  <br/>
+<img src="https://i.imgur.com/HR8yBUr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating new user: <br/>
+<img src="https://i.imgur.com/JxlPhxc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New User = John Doe:  <br/>
+<img src="https://i.imgur.com/5QbmNgb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created new group (IT New Hire) | Added user (John Doe) to new group:  <br/>
+<img src="https://i.imgur.com/HAPazka.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Resetting user password:  <br/>
+<img src="https://i.imgur.com/fWVGqfR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+Unlocking users account, requiring password change at next login:  <br/>
+<img src="https://i.imgur.com/QAN22Ik.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <!--
  ```diff
 - text in red
